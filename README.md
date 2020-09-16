@@ -27,25 +27,16 @@
 ### :computer:Project
 
 :heavy_check_mark: 2018 멋쟁이사자처럼 주관 ‘뉴비톤’ – **취미 이상형 월드컵**(hobby cup)
-
 ​    https://github.com/kimminji122258/hobbycup-newbie-ton
 
 :heavy_check_mark: 2018 멋쟁이사자처럼 주관 ‘해커톤’ – **냥냥펀치**
-
 ​    https://github.com/kimminji122258/nyang2punch-hacker-ton     
 
 :heavy_check_mark: 한국대학생IT경영학회 ‘학술제’- **함께 타요**, **따릉이** **2.0**
-
-​    웹 클라이언트 개발자로 참여
+​    https://github.com/wooyounggggg/Kusitms-Academic
 
 :heavy_check_mark: SOPT 26기 ‘솝커톤’ – **또또**
-
 ​    https://github.com/SOPT26-Ddo-Ddo
 
-   서버 개발자로 참여, 2등 수상
-
 :heavy_check_mark: SOPT 26기 ‘APPJAM’ – **큐링**
-
   **앱스토어 링크** **- https://apps.apple.com/app/id1523625666**
-
-  서버 개발자로 참여, 대상 수상
