@@ -46,3 +46,4 @@
 :heavy_check_mark: SOPT 26기 ‘APPJAM’ – **큐링**
 
   **앱스토어 출시** https://url.kr/5VHhj6
+​    https://github.com/kimminji122258/qring-public/blob/master/README.md
