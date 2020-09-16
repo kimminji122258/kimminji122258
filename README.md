@@ -41,8 +41,8 @@
 
 :heavy_check_mark: SOPT 26기 ‘솝커톤’ – **또또**
 
-​    https://github.com/SOPT26-Ddo-Ddo
+​    https://github.com/SOPT26-Ddo-Ddo/DdoDdo-Server
 
 :heavy_check_mark: SOPT 26기 ‘APPJAM’ – **큐링**
 
-  **앱스토어 출시** https://apps.apple.com/app/id1523625666
+  **앱스토어 출시** https://url.kr/5VHhj6
