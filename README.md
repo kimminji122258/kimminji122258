@@ -4,9 +4,6 @@
 
 :heavy_check_mark: Duksung univ. computer science
 
-:heavy_check_mark: 24
-
-
 
 ###  :lollipop:External activities
 
