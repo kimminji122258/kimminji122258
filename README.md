@@ -30,27 +30,9 @@
 
 ​    https://github.com/kimminji122258/hobbycup-newbie-ton
 
-​    웹 클라이언트 개발자로 참여, 기술상 수상
-
 :heavy_check_mark: 2018 멋쟁이사자처럼 주관 ‘해커톤’ – **냥냥펀치**
 
 ​    https://github.com/kimminji122258/nyang2punch-hacker-ton     
-
-​    웹 클라이언트 개발자로 참여
-
-:heavy_check_mark: 인턴십 IoT 프로젝트 – **농기계 시스템**
-
-​    https://blog.naver.com/kimminji1222
-
-​    IoT 개발자로 참여
-
-:heavy_check_mark: 인턴십 IoT 프로젝트 – **미세조류 배양 시스템**
-
-​    IoT 개발자로 참여
-
-:heavy_check_mark: 한국대학생IT경영학회 ‘학술제’- **플로팅**(Floating)
-
-​    웹 클라이언트 개발자로 참여
 
 :heavy_check_mark: 한국대학생IT경영학회 ‘학술제’- **함께 타요**, **따릉이** **2.0**
 
